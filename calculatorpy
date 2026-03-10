@@ -1,4 +1,4 @@
-print("=== Simple Calculator ===")
+print("=== Simple Python Calculator ===")
 
 history = []
 
