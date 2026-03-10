@@ -1,22 +1,29 @@
- Python Calculator
+# Python Calculator
 
-A simple  calculator built using Python.
+A simple calculator program built using Python.
 
-Features
-
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Calculation history
+- User-friendly terminal input
 
-How to Run
+## How to Run
 
-1. Install Python.
-2. Run the file:
+1. Install Python
+2. Download the file
+3. Run the program using:
 
 python calculator.py
 
-Author
+## Example
 
-Hanna Fathima. J
+Enter first number: 5  
+Enter second number: 6  
+Choose operation (+, -, *, /): +  
+
+Result: 11
+
+## Author
+Created by Misfala Jasmine
